@@ -1,4 +1,4 @@
-# I'm @piwi11
+# I'm piwi11
 ## Coding languages
 - Scratch
 - Python 
