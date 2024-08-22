@@ -3,7 +3,7 @@
 - Scratch
 - Python 
 
-# and i want to learn
+### and i want to learn
 - HTML
 - CSS
 - JavaScript
