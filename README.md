@@ -1,9 +1,12 @@
 # I'm piwi11
-## Coding languages
-- Scratch
-- Python 
 
-### And i want to learn
+## I know
+- Scratch
+
+### I'm learning
+- Python 
 - HTML
+
+### And I want to learn
 - CSS
 - JavaScript
