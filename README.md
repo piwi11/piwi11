@@ -6,7 +6,7 @@
 ### I'm learning
 - Python 
 - HTML
+- CSS
 
 ### And I want to learn
-- CSS
 - JavaScript
