@@ -7,6 +7,7 @@
 - Python 
 - HTML
 - CSS
+- JavaScript
 
 ### And I want to learn
-- JavaScript
+- Nothing for the moment 😊
