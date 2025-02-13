@@ -8,6 +8,3 @@
 - HTML
 - CSS
 - JavaScript
-
-### And I want to learn
-- Nothing for the moment 😊
