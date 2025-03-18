@@ -10,4 +10,4 @@
 - JavaScript
 
 ### My Profiles
-<a href="https://codepen.io/Mart-n-Zubillaga" target="_blank" style="background-color: white; display: inline-block; padding: 5px; border-radius: 5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/CodePen_logo.png" alt="CodePen" width="100" style="backgorund-color; white:"/></a>
+<a href="https://codepen.io/Mart-n-Zubillaga" target="_blank" ><img src="https://blog.codepen.io/wp-content/uploads/2022/01/codepen-wordmark-display-inside-white@10x.png" alt="CodePen" width="100"/></a>
