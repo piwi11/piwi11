@@ -9,5 +9,5 @@
 - CSS
 - JavaScript
 
-### My Profiles
-<a href="https://codepen.io/Mart-n-Zubillaga" target="_blank" ><img src="https://blog.codepen.io/wp-content/uploads/2022/01/codepen-wordmark-display-inside-white@10x.png" alt="CodePen" width="100"/></a>
+##
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/Mart-n-Zubillaga)
